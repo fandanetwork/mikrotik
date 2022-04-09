@@ -1,5 +1,7 @@
 # Mikrotik
 
+DONASI : https://saweria.co/fandagroup
+
 Halaman ini berisi seputar konfigurasi mikrotik 
 
 * Routing
