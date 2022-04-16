@@ -1,0 +1,8 @@
+# From : Indonesia (Jawa Timur)
+# Updated 08 Apr 2022 14:31
+# Home Page : https://github.com/fandagroupofficial
+# Facebook : https://www.facebook.com/fandagroup.id
+# Title = DNS over HTTPS
+
+/ip firewall address-list
+add list="DoH" address=dns.adguard.com
