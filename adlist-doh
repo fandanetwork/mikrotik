@@ -1,5 +1,5 @@
 # From : Indonesia (Jawa Timur)
-# Updated 08 Apr 2022 14:31
+# Updated : 16 Apr 2022 14:31
 # Home Page : https://github.com/fandagroupofficial
 # Facebook : https://www.facebook.com/fandagroup.id
 # Title = DNS over HTTPS
@@ -27,3 +27,18 @@ add list="DoH" address=family.canadianshield.cira.ca
 add list="DoH" address=doh-fi.blahdns.com
 add list="DoH" address=doh-jp.blahdns.com
 add list="DoH" address=doh-de.blahdns.com
+add list="DoH" address=fi.doh.dns.snopyta.org
+add list="DoH" address=dns-doh.dnsforfamily.com
+add list="DoH" address=odvr.nic.cz
+add list="DoH" address=dns.alidns.com
+add list="DoH" address=dns.cfiec.net
+add list="DoH" address=asia.dnscepat.id
+add list="DoH" address=eropa.dnscepat.id
+add list="DoH" address=doh.360.cn
+add list="DoH" address=public.dns.iij.jp
+add list="DoH" address=doh.pub
+add list="DoH" address=dns.twnic.tw
+add list="DoH" address=doh.tiarap.org
+add list="DoH" address=jp.tiarap.org
+add list="DoH" address=dns.oszx.co
+add list="DoH" address=dns.pumplex.com
