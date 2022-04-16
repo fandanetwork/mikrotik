@@ -6,3 +6,24 @@
 
 /ip firewall address-list
 add list="DoH" address=dns.adguard.com
+add list="DoH" address=dns-family.adguard.com
+add list="DoH" address=dns-unfiltered.adguard.com
+add list="DoH" address=doh.cleanbrowsing.org
+add list="DoH" address=
+add list="DoH" address=
+add list="DoH" address=
+add list="DoH" address=
+add list="DoH" address=
+add list="DoH" address=
+add list="DoH" address=
+add list="DoH" address=
+add list="DoH" address=
+add list="DoH" address=
+add list="DoH" address=
+add list="DoH" address=
+add list="DoH" address=
+add list="DoH" address=
+add list="DoH" address=
+add list="DoH" address=
+add list="DoH" address=
+add list="DoH" address=
