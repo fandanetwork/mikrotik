@@ -71,3 +71,6 @@ add list="DoH" address=freedns.controld.com
 add list="DoH" address=doh.mullvad.net
 add list="DoH" address=adblock.doh.mullvad.net
 add list="DoH" address=dns.arapurayil.com
+add list="DoH" address=chrome.cloudflare-dns.com
+add list="DoH" address=mozilla.cloudflare-dns.com
+add list="DoH" address=opera.cloudflare-dns.com
