@@ -13,4 +13,4 @@ Halaman ini berisi seputar konfigurasi mikrotik
 
 ![image](https://user-images.githubusercontent.com/94752371/162590374-68a2ac63-bc35-489e-b081-6a6f30f1cb38.png)
 
-Jika permasalahan jaringan anda / konsultasi anda bisa pm kami di : **https://linktr.ee/fandagroup**
+Jika ada permasalahan jaringan anda / konsultasi anda bisa pm kami di : **https://linktr.ee/fandagroup**
