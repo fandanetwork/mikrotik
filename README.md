@@ -1,6 +1,8 @@
 # Mikrotik
 
-DONASI : 
+DONASI :
+
+
 ![image](https://user-images.githubusercontent.com/94752371/166851078-7768997c-42dd-4cdf-b094-8fb590107a47.png)
 
 Halaman ini berisi seputar konfigurasi mikrotik 
