@@ -24,14 +24,8 @@ add address=web.facebook.com comment=Facebook list=XL-Unlimited
 add address=portal.fb.com comment=Facebook list=XL-Unlimited
 add address=edge-mqtt.facebook.com comment=Facebook list=XL-Unlimited
 add address=mobile.facebook.com comment=Facebook list=XL-Unlimited
-add address=scontent.fsub3-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=scontent.fsub3-2.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=scontent.fsub4-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
 add address=scontent.xx.fbcdn.net comment=Facebook list=XL-Unlimited
 add address=static.xx.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=video.fsub3-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=video.fsub3-2.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=video.fsub4-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
 add address=www.instagram.com comment=Facebook list=XL-Unlimited
 add address=help.instagram.com comment=Facebook list=XL-Unlimited
 add address=scontent-cdt1-1.cdninstagram.com comment=Facebook list=XL-Unlimited
@@ -105,20 +99,11 @@ add address=external.fcgk6-2.fna.fbcdn.net comment=Facebook list=XL-Unlimited
 add address=scontent.fcgk6-2.fna.fbcdn.net comment=Facebook list=XL-Unlimited
 add address=b-www.facebook.com comment=Facebook list=XL-Unlimited
 add address=cdn.fbsbx.com comment=Facebook list=XL-Unlimited
-add address=scontent.fcgk9-2.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=z-p3-scontent.fsub4-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=video.fcgk9-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=video.fcgk8-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=video.fcgk8-2.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=scontent.fcgk9-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=static.fsub3-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=video.fcgk9-2.fna.fbcdn.net comment=Facebook list=XL-Unlimited
 add address=scontent-iad3-1.cdninstagram.com comment=Facebook list=XL-Unlimited
 add address=scontent-iad3-2.cdninstagram.com comment=Facebook list=XL-Unlimited
 add address=scontent.cgk1-1.xx.fbcdn.net comment=Facebook list=XL-Unlimited
 add address=video-cgk1-1.xx.fbcdn.net comment=Facebook list=XL-Unlimited
 add address=mqtt-ig-p4.facebook.com comment=Facebook list=XL-Unlimited
-add address=scontent.fcgk8-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
 add address=scontent.fcgk7-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
 add address=scontent.fcgk3-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
 add address=scontent.fcgk2-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
@@ -214,10 +199,6 @@ add address=instagram.fupg7-2.fna.fbcdn.net comment=Facebook list=\
     XL-Unlimited
 add address=scontent.fmlg5-2.fna.fbcdn.net comment=Facebook list=XL-Unlimited
 add address=instagram.fsub2-4.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=instagram.fsub3-2.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=instagram.fsub3-1.fna.fbcdn.net comment=Facebook list=\
     XL-Unlimited
 add address=instagram.fsub6-7.fna.fbcdn.net comment=Facebook list=\
     XL-Unlimited
@@ -505,10 +486,6 @@ add address=scontent.fdps3-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
 add address=video.fcgk3-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
 add address=video.fcgk3-2.fna.fbcdn.net comment=Facebook list=XL-Unlimited
 add address=video.fdps3-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=instagram.fcgk9-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=instagram.fcgk9-2.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
 add address=instagram.fcok10-1.fna.fbcdn.net comment=Facebook list=\
     XL-Unlimited
 add address=instagram.fcok10-2.fna.fbcdn.net comment=Facebook list=\
@@ -536,8 +513,6 @@ add address=instagram.fnag1-3.fna.fbcdn.net comment=Facebook list=\
 add address=instagram.fnak1-1.fna.fbcdn.net comment=Facebook list=\
     XL-Unlimited
 add address=instagram.fsub11-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=instagram.fsub4-1.fna.fbcdn.net comment=Facebook list=\
     XL-Unlimited
 add address=instagram.fsub8-1.fna.fbcdn.net comment=Facebook list=\
     XL-Unlimited
@@ -587,10 +562,6 @@ add address=instagram.fluh4-1.fna.fbcdn.net comment=Facebook list=\
     XL-Unlimited
 add address=instagram.fudr2-1.fna.fbcdn.net comment=Facebook list=\
     XL-Unlimited
-add address=instagram.fupg2-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=instagram.fupg2-2.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
 add address=instagram.fupg6-1.fna.fbcdn.net comment=Facebook list=\
     XL-Unlimited
 add address=instagram.fvno1-1.fna.fbcdn.net comment=Facebook list=\
@@ -612,19 +583,12 @@ add address=z-m-scontent.fsub8-1.fna.fbcdn.net comment=Facebook list=\
     XL-Unlimited
 add address=z-m-scontent.fsub8-2.fna.fbcdn.net comment=Facebook list=\
     XL-Unlimited
-add address=z-m-scontent.fsub3-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-m-scontent.fsub3-2.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
 add address=z-p3-scontent.fcgk4-3.fna.fbcdn.net comment=Facebook list=\
     XL-Unlimited
 add address=z-p3-scontent.fcgk4-2.fna.fbcdn.net comment=Facebook list=\
     XL-Unlimited
 add address=z-p3-scontent.fcgk4-1.fna.fbcdn.net comment=Facebook list=\
     XL-Unlimited
-add address=z-m-scontent.fdtb1-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=video.fdtb1-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
 add address=sonar.frix7-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
 add address=sonar.fppk1-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
 add address=hlz2jy9cqw5ka6io0fdb4nvr1m8stgpe7xu3.facebook.com comment=\
@@ -637,8 +601,6 @@ add address=external.fsub6-4.fna.fbcdn.net comment=Facebook list=XL-Unlimited
 add address=external.fsub6-3.fna.fbcdn.net comment=Facebook list=XL-Unlimited
 add address=external.fsub6-2.fna.fbcdn.net comment=Facebook list=XL-Unlimited
 add address=external.fsub6-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=instagram.fbpn4-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
 add address=instagram.fcgk6-2.fna.fbcdn.net comment=Facebook list=\
     XL-Unlimited
 add address=instagram.fcgk6-1.fna.fbcdn.net comment=Facebook list=\
@@ -701,8 +663,6 @@ add address=scontent.fhnd1-2.fna.fbcdn.net comment=Facebook list=XL-Unlimited
 add address=scontent.fhnd1-3.fna.fbcdn.net comment=Facebook list=XL-Unlimited
 add address=instagram.fala6-1.fna.fbcdn.net comment=Facebook list=\
     XL-Unlimited
-add address=instagram.fbdj2-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
 add address=instagram.fbne9-2.fna.fbcdn.net comment=Facebook list=\
     XL-Unlimited
 add address=instagram.fbne9-1.fna.fbcdn.net comment=Facebook list=\
@@ -714,12 +674,6 @@ add address=instagram.fcgk3-2.fna.fbcdn.net comment=Facebook list=\
 add address=instagram.fcgk3-1.fna.fbcdn.net comment=Facebook list=\
     XL-Unlimited
 add address=instagram.fcgk3-3.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=instagram.fcgk8-2.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=instagram.fcgk8-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=instagram.fcgk8-3.fna.fbcdn.net comment=Facebook list=\
     XL-Unlimited
 add address=instagram.fdel3-1.fna.fbcdn.net comment=Facebook list=\
     XL-Unlimited
@@ -764,10 +718,6 @@ add address=instagram.fpat2-3.fna.fbcdn.net comment=Facebook list=\
     XL-Unlimited
 add address=instagram.fpdg1-1.fna.fbcdn.net comment=Facebook list=\
     XL-Unlimited
-add address=instagram.fpku3-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=instagram.fpku3-2.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
 add address=sonar-cgk.xx.fbcdn.net comment=Facebook list=XL-Unlimited
 add address=z-m-static.fsub2-4.fna.fbcdn.net comment=Facebook list=\
     XL-Unlimited
@@ -780,8 +730,6 @@ add address=external-sin6-4.xx.fbcdn.net comment=Facebook list=XL-Unlimited
 add address=external-sin6-5.xx.fbcdn.net comment=Facebook list=XL-Unlimited
 add address=external-sin6-6.xx.fbcdn.net comment=Facebook list=XL-Unlimited
 add address=external-sin6-7.xx.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=external.fsub3-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=external.fsub3-2.fna.fbcdn.net comment=Facebook list=XL-Unlimited
 add address=interncache-eag.fbcdn.net comment=Facebook list=XL-Unlimited
 add address=chat-e2ee-mini.c10r.facebook.com comment=Facebook list=\
     XL-Unlimited
@@ -798,8 +746,6 @@ add address=rupload-xsp1-3.up.facebook.com comment=Facebook list=XL-Unlimited
 add address=rupload-xsp1-2.up.facebook.com comment=Facebook list=XL-Unlimited
 add address=rupload-xsp1-1.up.facebook.com comment=Facebook list=XL-Unlimited
 add address=mqtt-ig-p4.c10r.facebook.com comment=Facebook list=XL-Unlimited
-add address=scontent.fcgk8-2.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=scontent.fcgk8-3.fna.fbcdn.net comment=Facebook list=XL-Unlimited
 add address=z-m-external.xx.fbcdn.net comment=Facebook list=XL-Unlimited
 add address=apps-399969577438353.apps.fbsbx.com comment=Facebook list=\
     XL-Unlimited
@@ -839,8 +785,6 @@ add address=instagram.fbdo6-2.fna.fbcdn.net comment=Facebook list=\
 add address=instagram.fplm4-1.fna.fbcdn.net comment=Facebook list=\
     XL-Unlimited
 add address=instagram.ftbs5-2.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-m-scontent.fsub4-1.fna.fbcdn.net comment=Facebook list=\
     XL-Unlimited
 add address=lookaside.facebook.com comment=Facebook list=XL-Unlimited
 add address=fb.com comment=Facebook list=XL-Unlimited
@@ -882,8 +826,6 @@ add address=instagram.fdac27-1.fna.fbcdn.net comment=Facebook list=\
 add address=instagram.fdar5-1.fna.fbcdn.net comment=Facebook list=\
     XL-Unlimited
 add address=instagram.fdel1-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=instagram.fdtb1-1.fna.fbcdn.net comment=Facebook list=\
     XL-Unlimited
 add address=instagram.ffuk4-2.fna.fbcdn.net comment=Facebook list=\
     XL-Unlimited
@@ -927,9 +869,6 @@ add address=sonar.fsrg5-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
 add address=sonar.fkno9-2.fna.fbcdn.net comment=Facebook list=XL-Unlimited
 add address=sonar.fkno9-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
 add address=sonar.fdps5-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=sonar.fcgk9-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=sonar.fcgk8-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=sonar.fcgk8-2.fna.fbcdn.net comment=Facebook list=XL-Unlimited
 add address=sonar.fcgk4-6.fna.fbcdn.net comment=Facebook list=XL-Unlimited
 add address=sonar.fcgk4-2.fna.fbcdn.net comment=Facebook list=XL-Unlimited
 add address=sonar.fcgk4-3.fna.fbcdn.net comment=Facebook list=XL-Unlimited
@@ -943,26 +882,7 @@ add address=instagram.ftru1-1.fna.fbcdn.net comment=Facebook list=\
     XL-Unlimited
 add address=h.facebook.com comment=Facebook list=XL-Unlimited
 add address=ms-my.facebook.com comment=Facebook list=XL-Unlimited
-add address=z-m-external.fsub3-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=sonar.fsub3-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=z-m-external.fsub3-2.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-m-external.fsub4-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=sonar.fsub4-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=sonar.fsub3-2.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=static.fsub3-2.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=static.fsub4-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
 add address=z-p3-scontent.fsub2-4.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p3-scontent.fsub3-2.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-m-static.fsub3-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-m-static.fsub3-2.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-m-static.fsub4-1.fna.fbcdn.net comment=Facebook list=\
     XL-Unlimited
 add address=z-m-external.fsub2-1.fna.fbcdn.net comment=Facebook list=\
     XL-Unlimited
@@ -980,15 +900,8 @@ add address=z-p3-video.fsub2-3.fna.fbcdn.net comment=Facebook list=\
     XL-Unlimited
 add address=z-p3-video.fsub2-4.fna.fbcdn.net comment=Facebook list=\
     XL-Unlimited
-add address=z-p3-video.fsub3-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p3-video.fsub3-2.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p3-video.fsub4-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
 add address=external.fsub2-3.fna.fbcdn.net comment=Facebook list=XL-Unlimited
 add address=external.fsub2-2.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=external.fsub4-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
 add address=video.fcgk35-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
 add address=z-m-scontent.fcgk3-1.fna.fbcdn.net comment=Facebook list=\
     XL-Unlimited
@@ -1040,19 +953,10 @@ add address=instagram.fsub12-1.fna.fbcdn.net comment=Facebook list=\
     XL-Unlimited
 add address=z-m-scontent.fdps3-1.fna.fbcdn.net comment=Facebook list=\
     XL-Unlimited
-add address=z-m-scontent.fcgk9-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-m-scontent.fcgk9-2.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-m-scontent.fcgk8-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-m-scontent.fcgk8-2.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
 add address=z-m-scontent.fcgk7-1.fna.fbcdn.net comment=Facebook list=\
     XL-Unlimited
 add address=z-m-scontent.fcgk7-2.fna.fbcdn.net comment=Facebook list=\
     XL-Unlimited
-add address=sonar.fcgk9-2.fna.fbcdn.net comment=Facebook list=XL-Unlimited
 add address=instagram.fdmm1-2.fna.fbcdn.net comment=Facebook list=\
     XL-Unlimited
 add address=instagram.ftpe3-1.fna.fbcdn.net comment=Facebook list=\
@@ -1060,12 +964,6 @@ add address=instagram.ftpe3-1.fna.fbcdn.net comment=Facebook list=\
 add address=instagram.ftpe3-2.fna.fbcdn.net comment=Facebook list=\
     XL-Unlimited
 add address=z-p4-instagram.fsub2-4.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p4-instagram.fsub3-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p4-instagram.fsub3-2.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p4-instagram.fsub4-1.fna.fbcdn.net comment=Facebook list=\
     XL-Unlimited
 add address=video.cdninstagram.com comment=Facebook list=XL-Unlimited
 add address=graph.fbpigeon.com comment=Facebook list=XL-Unlimited
@@ -1135,14 +1033,6 @@ add address=z-p4-scontent.fcgk3-1.fna.fbcdn.net comment=Facebook list=\
     XL-Unlimited
 add address=z-p4-scontent.fcgk3-2.fna.fbcdn.net comment=Facebook list=\
     XL-Unlimited
-add address=z-p3-scontent.fsub3-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p4-scontent.fsub4-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p4-scontent.fsub3-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p4-scontent.fsub3-2.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
 add address=z-p4-scontent.fsub2-1.fna.fbcdn.net comment=Facebook list=\
     XL-Unlimited
 add address=z-p4-scontent.fsub2-2.fna.fbcdn.net comment=Facebook list=\
@@ -1150,46 +1040,6 @@ add address=z-p4-scontent.fsub2-2.fna.fbcdn.net comment=Facebook list=\
 add address=z-p4-scontent.fsub2-3.fna.fbcdn.net comment=Facebook list=\
     XL-Unlimited
 add address=z-p4-scontent.fsub2-4.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p3-scontent.fcgk8-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p3-scontent.fcgk8-2.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p4-scontent.fcgk8-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p4-scontent.fcgk8-2.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p3-video.fcgk8-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p3-video.fcgk8-2.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p4-video.fcgk8-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p4-video.fcgk8-2.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-m-video.fcgk8-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-m-video.fcgk8-2.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-m-static.fcgk8-2.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-m-static.fcgk8-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p3-instagram.fcgk8-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p3-instagram.fcgk8-2.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p4-instagram.fcgk8-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p4-instagram.fcgk8-2.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-m-sonar.fcgk8-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-m-sonar.fsub3-2.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-m-sonar.fsub3-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-m-sonar.fsub4-1.fna.fbcdn.net comment=Facebook list=\
     XL-Unlimited
 add address=z-m-sonar.fsub2-1.fna.fbcdn.net comment=Facebook list=\
     XL-Unlimited
@@ -1209,93 +1059,11 @@ add address=z-m-sonar.fpku1-2.fna.fbcdn.net comment=Facebook list=\
     XL-Unlimited
 add address=z-m-sonar.fpku1-3.fna.fbcdn.net comment=Facebook list=\
     XL-Unlimited
-add address=z-m.fcgk8-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=z-m.fcgk8-2.fna.fbcdn.net comment=Facebook list=XL-Unlimited
 add address=z-p4-video.fpku1-1.fna.fbcdn.net comment=Facebook list=\
     XL-Unlimited
 add address=z-p4-video.fpku1-2.fna.fbcdn.net comment=Facebook list=\
     XL-Unlimited
 add address=z-p4-video.fpku1-3.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-m-instagram.fbpn4-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p3-instagram.fbpn4-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p4-instagram.fbpn4-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-m-scontent.fbpn4-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-m-video.fbpn4-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-m-sonar.fbpn4-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=sonar.fbpn4-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=static.fbpn4-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=video.fbpn4-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=scontent.fbpn4-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=z-p3-scontent.fbpn4-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p4-scontent.fbpn4-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p3-video.fbpn4-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p4-video.fbpn4-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=external.fbpn4-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=z-m-external.fbpn4-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-m.fbpn4-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=z-p3-scontent.fcgk9-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p4-scontent.fcgk9-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p4-scontent.fcgk9-2.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p3-scontent.fcgk9-2.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p3-video.fcgk9-2.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p3-video.fcgk9-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p4-video.fcgk9-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p4-video.fcgk9-2.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-m-video.fcgk9-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-m-video.fcgk9-2.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-m-external.fcgk9-2.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-m-external.fcgk9-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-m-static.fcgk9-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-m-static.fcgk9-2.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-m-sonar.fcgk9-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-m-sonar.fcgk9-2.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p3-external.fcgk9-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p3-external.fcgk9-2.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p4-external.fcgk9-2.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p4-external.fcgk9-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p3-static.fcgk9-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p3-static.fcgk9-2.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p4-static.fcgk9-2.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p4-static.fcgk9-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p3-external.fbpn4-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p4-external.fbpn4-1.fna.fbcdn.net comment=Facebook list=\
     XL-Unlimited
 add address=z-p3-scontent.fcgk7-1.fna.fbcdn.net comment=Facebook list=\
     XL-Unlimited
@@ -1336,166 +1104,6 @@ add address=z-p3-sonar.fcgk7-1.fna.fbcdn.net comment=Facebook list=\
 add address=z-p4-sonar.fcgk7-1.fna.fbcdn.net comment=Facebook list=\
     XL-Unlimited
 add address=z-p4-sonar.fcgk7-2.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-m-instagram.fupg2-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-m-instagram.fupg2-2.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p4-instagram.fupg2-2.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p4-instagram.fupg2-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p3-instagram.fupg2-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p3-instagram.fupg2-2.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=scontent.fupg2-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=scontent.fupg2-2.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=z-m-scontent.fupg2-2.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-m.fupg2-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=z-m.fupg2-2.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=z-m-scontent.fupg2-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p3-scontent.fupg2-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p4-scontent.fupg2-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p4-scontent.fupg2-2.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p3-scontent.fupg2-2.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=video.fupg2-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=video.fupg2-2.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=z-m-video.fupg2-2.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-m-video.fupg2-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p3-video.fupg2-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p3-video.fupg2-2.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p4-video.fupg2-2.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p4-video.fupg2-4.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p3-sonar.fupg2-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p3-sonar.fupg2-2.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p4-sonar.fupg2-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p4-sonar.fupg2-2.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p3-external.fupg2-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p3-external.fupg2-2.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p4-external.fupg2-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p4-external.fupg2-2.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-m-instagram.fpku3-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-m-instagram.fpku3-2.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-m.fpku3-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=z-m.fpku3-2.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=z-m-scontent.fpku3-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-m-scontent.fpku3-2.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=scontent.fpku3-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=scontent.fpku3-2.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=video.fpku3-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=video.fpku3-2.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=sonar.fpku3-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=sonar.fpku3-2.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=external.fpku3-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=external.fpku3-2.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=z-m-video.fpku3-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-m-video.fpku3-2.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=static.fpku3-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=static.fpku3-2.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=z-m-sonar.fpku3-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-m-sonar.fpku3-2.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-m-external.fpku3-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-m-external.fpku3-2.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-m-static.fpku3-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-m-static.fpku3-2.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p3-instagram.fpku3-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p4-instagram.fpku3-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p4-instagram.fpku3-2.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p3-instagram.fpku3-2.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p3-scontent.fpku3-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p3-scontent.fpku3-2.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p4-scontent.fpku3-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p4-scontent.fpku3-2.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p3-video.fpku3-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p3-video.fpku3-2.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p4-video.fpku3-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p4-video.fpku3-2.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=instagram.fbdo4-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-m-instagram.fbdo4-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p3-instagram.fbdo4-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p4-instagram.fbdo4-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-m.fbdo4-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=scontent.fbdo4-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=video.fbdo4-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=sonar.fbdo4-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=static.fbdo4-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=external.fbdo4-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=instagram.fkix1-2.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-m-external.fbdo4-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-m-static.fbdo4-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-m-sonar.fbdo4-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-m-video.fbdo4-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-m-scontent.fbdo4-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p3-scontent.fbdo4-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p4-scontent.fbdo4-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p3-video.fbdo4-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p4-video.fbdo4-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p4-sonar.fbdo4-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p3-sonar.fbdo4-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p3-external.fbdo4-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p4-external.fbdo4-1.fna.fbcdn.net comment=Facebook list=\
     XL-Unlimited
 add address=scontent.fjog9-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
 add address=static.fjog9-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
@@ -1577,12 +1185,6 @@ add address=m.fsub2-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
 add address=m.fsub2-2.fna.fbcdn.net comment=Facebook list=XL-Unlimited
 add address=m.fsub2-3.fna.fbcdn.net comment=Facebook list=XL-Unlimited
 add address=m.fsub2-4.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=m.fsub3-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=m.fsub3-2.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=m.fsub4-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=z.fsub4-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=z.fsub3-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=z.fsub3-2.fna.fbcdn.net comment=Facebook list=XL-Unlimited
 add address=z.fsub2-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
 add address=z.fsub2-2.fna.fbcdn.net comment=Facebook list=XL-Unlimited
 add address=z.fsub2-3.fna.fbcdn.net comment=Facebook list=XL-Unlimited
@@ -1591,12 +1193,6 @@ add address=pixel.fsub2-4.fna.fbcdn.net comment=Facebook list=XL-Unlimited
 add address=pixel.fsub2-3.fna.fbcdn.net comment=Facebook list=XL-Unlimited
 add address=pixel.fsub2-2.fna.fbcdn.net comment=Facebook list=XL-Unlimited
 add address=pixel.fsub2-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=pixel.fsub3-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=pixel.fsub3-2.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=pixel.fsub4-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=web.fsub4-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=web.fsub3-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=web.fsub3-2.fna.fbcdn.net comment=Facebook list=XL-Unlimited
 add address=web.fsub2-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
 add address=web.fsub2-2.fna.fbcdn.net comment=Facebook list=XL-Unlimited
 add address=web.fsub2-3.fna.fbcdn.net comment=Facebook list=XL-Unlimited
@@ -1605,9 +1201,6 @@ add address=mobile.fsub2-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
 add address=mobile.fsub2-2.fna.fbcdn.net comment=Facebook list=XL-Unlimited
 add address=mobile.fsub2-3.fna.fbcdn.net comment=Facebook list=XL-Unlimited
 add address=mobile.fsub2-4.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=mobile.fsub3-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=mobile.fsub3-2.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=mobile.fsub4-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
 add address=mobile.fdps3-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
 add address=web.fdps3-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
 add address=web.fjog9-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
@@ -1615,21 +1208,6 @@ add address=z.fjog9-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
 add address=m.fjog9-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
 add address=mobile.fjog9-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
 add address=pixel.fjog9-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=pixel.fcgk9-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=web.fcgk9-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=z.fcgk9-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=m.fcgk9-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=mobile.fcgk9-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=mobile.fcgk9-2.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=m.fcgk9-2.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=z.fcgk9-2.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=web.fcgk9-2.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=pixel.fcgk9-2.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=pixel.fbdo4-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=web.fbdo4-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=z.fbdo4-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=m.fbdo4-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=mobile.fbdo4-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
 add address=instagram.fsub5-1.fna.fbcdn.net comment=Facebook list=\
     XL-Unlimited
 add address=instagram.fsub5-2.fna.fbcdn.net comment=Facebook list=\
@@ -2312,142 +1890,6 @@ add address=z-p4-static.fpku1-3.fna.fbcdn.net comment=Facebook list=\
 add address=z-p4-external.fpku1-3.fna.fbcdn.net comment=Facebook list=\
     XL-Unlimited
 add address=z-p4-scontent.fpku1-3.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=sonar.ftim1-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=static.ftim1-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=video.ftim1-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=external.ftim1-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=scontent.ftim1-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=instagram.ftim1-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-m-static.ftim1-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-m-video.ftim1-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-m-external.ftim1-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-m-scontent.ftim1-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-m-instagram.ftim1-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p3-static.ftim1-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p3-video.ftim1-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p3-external.ftim1-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p3-scontent.ftim1-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p3-instagram.ftim1-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p4-static.ftim1-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p4-video.ftim1-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p4-external.ftim1-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p4-scontent.ftim1-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p4-instagram.ftim1-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=sonar.fbdj2-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=static.fbdj2-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=video.fbdj2-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=external.fbdj2-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=scontent.fbdj2-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=z-m-static.fbdj2-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-m-video.fbdj2-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-m-external.fbdj2-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-m-scontent.fbdj2-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-m-instagram.fbdj2-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p3-static.fbdj2-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p3-video.fbdj2-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p3-external.fbdj2-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p3-scontent.fbdj2-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p3-instagram.fbdj2-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p4-static.fbdj2-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p4-video.fbdj2-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p4-external.fbdj2-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p4-scontent.fbdj2-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p4-instagram.fbdj2-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-m-video.fsub3-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-m-instagram.fsub3-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p3-static.fsub3-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p3-external.fsub3-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p3-instagram.fsub3-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p4-static.fsub3-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p4-video.fsub3-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p4-external.fsub3-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-m-video.fsub3-2.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-m-instagram.fsub3-2.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p3-static.fsub3-2.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p3-external.fsub3-2.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p3-instagram.fsub3-2.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p4-static.fsub3-2.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p4-video.fsub3-2.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p4-external.fsub3-2.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-m-video.fsub4-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-m-instagram.fsub4-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p3-static.fsub4-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p3-external.fsub4-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p3-instagram.fsub4-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p4-static.fsub4-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p4-video.fsub4-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p4-external.fsub4-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=static.fcgk9-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=external.fcgk9-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=z-m-instagram.fcgk9-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p3-instagram.fcgk9-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p4-instagram.fcgk9-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=static.fcgk9-2.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=external.fcgk9-2.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=z-m-instagram.fcgk9-2.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p3-instagram.fcgk9-2.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p4-instagram.fcgk9-2.fna.fbcdn.net comment=Facebook list=\
     XL-Unlimited
 add address=sonar.fmlg2-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
 add address=static.fmlg2-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
@@ -3516,34 +2958,6 @@ add address=z-p4-external.fcgk6-1.fna.fbcdn.net comment=Facebook list=\
 add address=z-p4-scontent.fcgk6-1.fna.fbcdn.net comment=Facebook list=\
     XL-Unlimited
 add address=z-p4-instagram.fcgk6-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=static.fcgk8-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=external.fcgk8-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=z-m-external.fcgk8-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-m-instagram.fcgk8-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p3-static.fcgk8-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p3-external.fcgk8-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p4-static.fcgk8-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p4-external.fcgk8-1.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=static.fcgk8-2.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=external.fcgk8-2.fna.fbcdn.net comment=Facebook list=XL-Unlimited
-add address=z-m-external.fcgk8-2.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-m-instagram.fcgk8-2.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p3-static.fcgk8-2.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p3-external.fcgk8-2.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p4-static.fcgk8-2.fna.fbcdn.net comment=Facebook list=\
-    XL-Unlimited
-add address=z-p4-external.fcgk8-2.fna.fbcdn.net comment=Facebook list=\
     XL-Unlimited
 add address=sonar.fsrg4-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
 add address=static.fsrg4-1.fna.fbcdn.net comment=Facebook list=XL-Unlimited
