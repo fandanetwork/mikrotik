@@ -74,3 +74,4 @@ add list="DoH" address=dns.arapurayil.com
 add list="DoH" address=chrome.cloudflare-dns.com
 add list="DoH" address=mozilla.cloudflare-dns.com
 add list="DoH" address=opera.cloudflare-dns.com
+add list="DoH" address=one.one.one.one
