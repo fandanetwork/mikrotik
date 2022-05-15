@@ -1,0 +1,18 @@
+# From : Indonesia (Jawa Timur)
+# Last Updated : 15 Mei 2022 14:31
+# Home Page : https://github.com/fandagroupofficial
+# Facebook : https://www.facebook.com/fandagroup.id
+# Title = Google Play Store
+# Notice : Jika ingin address list premium silahkan PM (Full update secara berkala)
+
+/ip firewall address-list
+add list="Play-Store" address=play.googleapis.com
+add list="Play-Store" address=play-fe.googleapis.com
+add list="Play-Store" address=play-lh.googleusercontent.com
+add list="Play-Store" address=play-games.googleusercontent.com
+add list="Play-Store" address=update.googleapis.com
+add list="Play-Store" address=play.google.com
+add list="Play-Store" address=android.clients.google.com
+add list="Play-Store" address=android.googleapis.com
+add list="Play-Store" address=lh3.googleusercontent.com
+add list="Play-Store" address=www.google.com
