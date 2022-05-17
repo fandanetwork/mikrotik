@@ -1,10 +1,9 @@
 # From : Indonesia (Jawa Timur)
 # Updated 08 Apr 2022 14:31
-
 # Home Page : https://github.com/fandagroupofficial
 # Facebook : https://www.facebook.com/fandagroup.id
-
 # Title = KETENGAN ( Youtube + Tiktok )
+# Notice : Jika ingin address list premium silahkan PM (Full update secara berkala)
 
 /ip firewall address-list
 add list="Ketengan" comment="Youtube" address=64.15.126.0/24
