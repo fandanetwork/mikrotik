@@ -20,7 +20,7 @@ Halaman ini berisi address list untuk mikrotik
 </thead>
 <tbody>
 <tr>
-<td>DoH</td>
+<td>DNS over HTTPS</td>
 <td align="center"><a href="https://github.com/fandagroupofficial/mikrotik/raw/main/adlist-doh" rel="nofollow">Link</a></td>
 <th align="center">Domain Name System</th>
 </tr>
@@ -37,7 +37,7 @@ Halaman ini berisi address list untuk mikrotik
 <tr>
 <td>Tsel Unlimited</td>
 <td align="center"><a href="https://github.com/fandagroupofficial/mikrotik/raw/main/adlist-tsel-unlimited" rel="nofollow">Link</a></td>
-<th align="center">Youtube, Tiktok, Snackvideo, Facebook, Instagram, Joox, Spotify, Resso, Starmaker</th>
+<th align="center">Youtube, Tiktok, Snackvideo, Facebook, Dll</th>
 </tr>
 <tr>
 <td>WhatsApp</td>
