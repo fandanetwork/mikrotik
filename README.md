@@ -16,7 +16,7 @@ Halaman ini berisi seputar konfigurasi mikrotik
 </thead>
 <tbody>
 <tr>
-<td>DNS-over-HTTPS</td>
+<td>DoH</td>
 <td align="center"><a href="https://github.com/fandagroupofficial/mikrotik/raw/main/adlist-doh" rel="nofollow">Link</a></td>
 <th align="center">Domain Name System</th>
 </tr>
