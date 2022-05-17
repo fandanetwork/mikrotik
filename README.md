@@ -52,4 +52,4 @@ Halaman ini berisi address list untuk mikrotik
 </tbody>
 </table>
 
-Jika ada permasalahan dijaringan anda / konsultasi anda bisa PM (Private Message) kami : <a href="https://linktr.ee/fandagroup" target="_blank" class="text-bold">Disini</a>
+# Jika ada permasalahan dijaringan anda / konsultasi bisa PM (Private Message) kami : <a href="https://linktr.ee/fandagroup" target="_blank" class="text-bold">Disini</a>
