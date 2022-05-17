@@ -31,7 +31,7 @@ Halaman ini berisi seputar konfigurasi mikrotik
 <th align="center">Youtube, Tiktok</th>
 </tr>
 <tr>
-<td>Telkomsel Unlimited</td>
+<td>Tsel Unlimited</td>
 <td align="center"><a href="https://github.com/fandagroupofficial/mikrotik/raw/main/adlist-tsel-unlimited" rel="nofollow">Link</a></td>
 <th align="center">Youtube, Tiktok, Snackvideo, Facebook, Instagram, Joox, Spotify, Resso, Starmaker</th>
 </tr>
