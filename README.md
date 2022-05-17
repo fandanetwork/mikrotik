@@ -4,7 +4,11 @@ DONASI : Support via BI (Bank Indonesia) atau E-Wallet (Dana, Gopay, Linkaja, Ov
 
 <img src="https://user-images.githubusercontent.com/94752371/166851078-7768997c-42dd-4cdf-b094-8fb590107a47.png" height="500" style="max-width: 100%;">
 
-Halaman ini berisi seputar konfigurasi mikrotik 
+Halaman ini berisi address list untuk mikrotik
+   * Filter
+   * Packet
+   * Routing
+   * Dll
 
 <table>
 <thead>
