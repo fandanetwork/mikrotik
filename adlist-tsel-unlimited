@@ -1959,6 +1959,7 @@ add address=www.m.youtube.com comment=Youtube list=Tsel-Unlimited
 add address=s.youtube.com comment=Youtube list=Tsel-Unlimited
 add address=a.rtmp.youtube.com comment=Youtube list=Tsel-Unlimited
 add address=socialimpact.youtube.com comment=Youtube list=Tsel-Unlimited
+add address=i.ytimg.com comment=Youtube list=Tsel-Unlimited
 add address=in.youtube.com comment=Youtube list=Tsel-Unlimited
 add address=ca.youtube.com comment=Youtube list=Tsel-Unlimited
 add address=r8.sn-4gxx-25gy.googlevideo.com comment=Youtube list=\
