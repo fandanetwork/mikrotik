@@ -3,6 +3,7 @@
 # Home Page : https://github.com/fandagroupofficial
 # Facebook : https://www.facebook.com/fandagroup.id
 # Title = WhatsApp
+# Notice : Jika ingin address list premium silahkan PM (Full update secara berkala)
 
 /ip firewall address-list
 add address=31.13.64.51 list=WhatsApp
@@ -29,7 +30,6 @@ add address=31.13.78.60/31 list=WhatsApp
 add address=31.13.79.53 list=WhatsApp
 add address=31.13.79.54 list=WhatsApp
 add address=31.13.80.48 list=WhatsApp
-
 add address=31.13.80.48 list=WhatsApp
 add address=31.13.80.53 list=WhatsApp
 add address=31.13.81.48 list=WhatsApp
@@ -59,7 +59,6 @@ add address=31.13.94.52/32  list=WhatsApp
 add address=31.13.94.54 list=WhatsApp
 add address=31.13.95.50/31 list=WhatsApp
 add address=31.13.95.63/31 list=WhatsApp
-
 add address=50.22.240.160/27  list=WhatsApp
 add address=50.23.90.128/27  list=WhatsApp
 add address=66.111.48.12/32  list=WhatsApp
@@ -68,7 +67,6 @@ add address=69.171.239.11/32  list=WhatsApp
 add address=69.171.250.52/32  list=WhatsApp
 add address=69.171.250.54/32  list=WhatsApp
 add address=69.171.255.11/32  list=WhatsApp
-
 add address=102.132.96.54/31 list=WhatsApp
 add address=102.132.97.54/31 list=WhatsApp
 add address=102.132.98.60/31 list=WhatsApp
@@ -85,7 +83,6 @@ add address=102.132.108.60/31 list=WhatsApp
 add address=102.132.109.60/31 list=WhatsApp
 add address=102.132.110.60/31 list=WhatsApp
 add address=102.132.111.60/31 list=WhatsApp
-
 add address=108.168.174.0/27  list=WhatsApp
 add address=108.168.176.192/26  list=WhatsApp
 add address=108.168.177.0/27  list=WhatsApp
@@ -93,7 +90,6 @@ add address=108.168.180.96/27  list=WhatsApp
 add address=108.168.254.65/32  list=WhatsApp
 add address=108.168.255.224/32  list=WhatsApp
 add address=108.168.255.227/32  list=WhatsApp
-
 add address=157.240.0.60/31 list=WhatsApp
 add address=157.240.1.60/31 list=WhatsApp
 add address=157.240.2.54 list=WhatsApp
@@ -223,19 +219,16 @@ add address=173.193.239.0/27  list=WhatsApp
 add address=174.36.208.128/27  list=WhatsApp
 add address=174.36.210.32/27  list=WhatsApp
 add address=174.37.243.64/27  list=WhatsApp
-
 add address=179.60.192.51/32 list=WhatsApp
 add address=179.60.193.52/32 list=WhatsApp
 add address=179.60.194.53/32 list=WhatsApp
 add address=179.60.194.54/32 list=WhatsApp
 add address=179.60.195.49/32 list=WhatsApp
 add address=179.60.195.51/32 list=WhatsApp
-
 add address=184.173.136.64/27 list=WhatsApp
 add address=184.173.147.32/27 list=WhatsApp
 add address=184.173.161.64/32 list=WhatsApp
 add address=184.173.173.116/32 list=WhatsApp
-
 add address=185.60.216.53/32 list=WhatsApp
 add address=185.60.216.54/32 list=WhatsApp
 add address=185.60.217.53/32 list=WhatsApp
@@ -244,7 +237,6 @@ add address=185.60.218.53/32 list=WhatsApp
 add address=185.60.218.54/32 list=WhatsApp
 add address=185.60.219.53/32 list=WhatsApp
 add address=185.60.219.54/32 list=WhatsApp
-
 add address=192.155.212.192/27 list=WhatsApp
 add address=198.11.193.182/31 list=WhatsApp
 add address=198.11.251.32/27 list=WhatsApp
