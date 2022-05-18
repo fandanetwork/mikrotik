@@ -27,7 +27,7 @@ DONASI : Support via BI (Bank Indonesia) atau E-Wallet (Dana, Gopay, Linkaja, Ov
 <tr>
 <td>Games</td>
 <td align="center"><a href="https://raw.githubusercontent.com/fandagroupofficial/mikrotik/main/adlist-games" rel="nofollow">Link</a></td>
-<th align="center">Garena</th>
+<th align="center">Garena, Tencent</th>
 </tr>
 <tr>
 <td>Facebook</td>
