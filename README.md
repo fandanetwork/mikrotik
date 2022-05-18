@@ -42,7 +42,7 @@ DONASI : Support via BI (Bank Indonesia) atau E-Wallet (Dana, Gopay, Linkaja, Ov
 <tr>
 <td>Tsel Unlimited</td>
 <td align="center"><a href="https://github.com/fandagroupofficial/mikrotik/raw/main/adlist-tsel-unlimited" rel="nofollow">Link</a></td>
-<th align="center">Youtube, Tiktok, Snackvideo, Facebook, Dll</th>
+<th align="center">Youtube, Tiktok, Snackvideo, Dll</th>
 </tr>
 <tr>
 <td>WhatsApp</td>
