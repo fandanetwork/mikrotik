@@ -53,7 +53,7 @@ DONASI : Support via BI (Bank Indonesia) atau E-Wallet (Dana, Gopay, Linkaja, Ov
 </table>
 
 # Huawei Manager
-Software untuk cek kualitas sinyal modem merk huawei (V7 Android)
+Software untuk cek kualitas sinyal modem merk huawei (v.7 Android)
 <p dir="auto"><a href="https://www.mediafire.com/file/p8symlayaelcrl9/Huawei_Manager_7_English.apk/file" rel="nofollow"><img src="https://user-images.githubusercontent.com/94752371/169036676-13f98de5-c789-4ebc-a4e9-2423690d008e.png" alt="Get it on official AdAway website" height="80" style="max-width: 100%;"></a>
 
 # Contact Me : <a href="https://linktr.ee/fandagroup" target="_blank" class="text-bold">Disini</a>
