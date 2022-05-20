@@ -58,7 +58,7 @@ Dengan adlist berikut anda bisa gunakan berbagai macam fungsi, Misalnya :
 </tbody>
 </table>
 
-<p><blockquote>Notice : Jika ingin address list premium silahkan PM (Full update secara berkala)</blockquote></p>
+<p><blockquote>Notice : Jika ingin address list premium silahkan PM (Up to date)</blockquote></p>
 
 Contoh kecil perbedaan tujuan "Youtube" :
 1. XL-Axiata = r1---sn-xmjxajvh-jb3s.googlevideo.com
