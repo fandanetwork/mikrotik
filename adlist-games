@@ -2,7 +2,7 @@
 # Last Updated : 17 May 2022 14:25
 # Home Page : https://github.com/fandagroupofficial
 # Facebook : https://www.facebook.com/fandagroup.id
-# Title = Games (Garena)
+# Title = Games (Garena, Tencent)
 
 /ip firewall address-list
 add list="IP-Games" comment="AS133151 Garena Online Pte Ltd" address=103.247.204.0/24
