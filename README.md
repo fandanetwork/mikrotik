@@ -6,7 +6,7 @@ DONASI : Support via BI (Bank Indonesia) atau E-Wallet (Dana, Gopay, Linkaja, Ov
 
 # Halaman ini berisi address list untuk mikrotik
 Dengan adlist berikut anda bisa gunakan berbagai macam fungsi, Misalnya :
-   * Filter rules
+   * Filter rule 
    * Packet
    * Routing
    * Dan lain-lain
