@@ -15,7 +15,7 @@ Dengan adlist berikut anda bisa gunakan berbagai macam fungsi, Misalnya :
 <thead>
 <tr>
 <th align="center">Title</th>
-<th align="center">Raw hosts</th>
+<th align="center">Script</th>
 <th align="center">Description</th>
 </tr>
 </thead>
