@@ -58,6 +58,14 @@ Dengan adlist berikut anda bisa gunakan berbagai macam fungsi, Misalnya :
 </tbody>
 </table>
 
+<p><blockquote>Notice : Jika ingin address list premium silahkan PM (Full update secara berkala)</blockquote></p>
+
+Contoh kecil perbedaan tujuan "Youtube" :
+1. r1---sn-xmjxajvh-jb3s.googlevideo.com (XL-Axiata)
+2. r1---sn-uxa3vhnxa-n0c6.googlevideo.com (Telkomsel)
+
+Meski sama-sama sub domain dari ".googlevideo.com" tetapi beda ASN (Bisa anda check sendiri dengan converter <a href="https://whatismyipaddress.com/hostname-ip" rel="nofollow">Hostname to IP Address</a>)
+
 # Huawei Manager
 Aplikasi untuk cek kualitas sinyal modem GSM merk huawei (v.7 Android)
 <p dir="auto"><a href="https://www.mediafire.com/file/p8symlayaelcrl9/Huawei_Manager_7_English.apk/file" rel="nofollow"><img src="https://user-images.githubusercontent.com/94752371/169036676-13f98de5-c789-4ebc-a4e9-2423690d008e.png" alt="Get it on official AdAway website" height="80" style="max-width: 100%;"></a>
