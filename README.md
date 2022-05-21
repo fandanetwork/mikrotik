@@ -60,11 +60,11 @@ Dengan adlist berikut anda bisa gunakan berbagai macam fungsi, Misalnya :
 
 <p><blockquote>Notice : Jika ingin address list premium silahkan PM (Up to date)</blockquote></p>
 
-Contoh kecil perbedaan tujuan <b><blockquote>"Youtube"</blockquote></b> :
+Contoh kecil perbedaan tujuan <b>"Youtube"</b> :
 1. XL-Axiata = r1---sn-xmjxajvh-jb3s.googlevideo.com
 2. Telkomsel = r1---sn-uxa3vhnxa-n0c6.googlevideo.com
 
-Meski sama-sama sub domain dari <b><blockquote>".googlevideo.com"</blockquote></b> tetapi beda ASN ( Bisa anda check dengan converter <a href="https://whatismyipaddress.com/hostname-ip" rel="nofollow">Hostname to IP Address</a> )
+Meski sama-sama sub domain dari <b>".googlevideo.com"</b> tetapi beda ASN ( Bisa anda check dengan converter <a href="https://whatismyipaddress.com/hostname-ip" rel="nofollow">Hostname to IP Address</a> )
 
 # Huawei Manager
 Aplikasi untuk cek kualitas sinyal modem GSM merk huawei (v.7 Android)
