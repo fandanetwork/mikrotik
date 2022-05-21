@@ -64,7 +64,7 @@ Contoh kecil perbedaan tujuan "Youtube" :
 1. XL-Axiata = r1---sn-xmjxajvh-jb3s.googlevideo.com
 2. Telkomsel = r1---sn-uxa3vhnxa-n0c6.googlevideo.com
 
-Meski sama-sama sub domain dari ".googlevideo.com" tetapi beda ASN ( Bisa anda check sendiri dengan converter <a href="https://whatismyipaddress.com/hostname-ip" rel="nofollow">Hostname to IP Address</a> )
+Meski sama-sama sub domain dari ".googlevideo.com" tetapi beda ASN ( Bisa anda check dengan converter <a href="https://whatismyipaddress.com/hostname-ip" rel="nofollow">Hostname to IP Address</a> )
 
 # Huawei Manager
 Aplikasi untuk cek kualitas sinyal modem GSM merk huawei (v.7 Android)
