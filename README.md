@@ -75,7 +75,7 @@ Contoh kecil perbedaan tujuan :
 1. XL-Axiata = video.fsub2-1.fna.fbcdn.net
 2. Telkomsel = video.fsub4-1.fna.fbcdn.net
 
-Meski sama-sama sub domain yang sama tetapi beda ASN ( Bisa anda check dengan converter <a href="https://whatismyipaddress.com/hostname-ip" rel="nofollow">Hostname to IP Address</a> )
+Meski sama-sama dari sub domain yang sama tetapi beda ASN ( Bisa anda check dengan converter <a href="https://whatismyipaddress.com/hostname-ip" rel="nofollow">Hostname to IP Address</a> )
 
 # Huawei Manager
 Aplikasi untuk cek kualitas sinyal modem GSM merk huawei (v.7 Android)
