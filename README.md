@@ -33,7 +33,7 @@ Khusus routing game ada tambahan config add address list mode by port (Kecuali p
 <tr>
 <td>Games</td>
 <td align="center"><a href="https://raw.githubusercontent.com/fandagroupofficial/mikrotik/main/adlist-games" rel="nofollow">Link</a></td>
-<th align="center">Garena, Tencent</th>
+<th align="center">Garena, Tencent, Zenlayer</th>
 </tr>
 <tr>
 <td>Facebook</td>
