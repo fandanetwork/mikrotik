@@ -12,7 +12,7 @@ Dengan adlist berikut anda bisa gunakan berbagai macam fungsi, Misalnya :
    * Dan lain-lain
 
 Untuk penggunaan routing memang tidak di alokasikan secara spesifik ke arah tujuan dikarnakan untuk kelancaran koneksi seperti Facebook, instagram, Youtube, Dll
-Terlebih lagi dari platform google biasanya PlayStore atau yang lainnya akan terganggu. Maka dari itu tidak kita sertakan karna ada tambahan config (Premium)
+Terlebih lagi dari platform google biasanya PlayStore atau yang lainnya akan terganggu. Maka dari itu tidak kita sertakan karna ada tambahan config (Premium Only)
 
 Khusus routing game ada tambahan config add address list mode by port
 
@@ -65,11 +65,17 @@ Khusus routing game ada tambahan config add address list mode by port
 
 <p><blockquote>Notice : Jika ingin address list premium silahkan PM (Up to date)</blockquote></p>
 
-Contoh kecil perbedaan tujuan <b>"Youtube"</b> :
+Contoh kecil perbedaan tujuan :
+
+<b>"Youtube"</b>
 1. XL-Axiata = r1---sn-xmjxajvh-jb3s.googlevideo.com
 2. Telkomsel = r1---sn-uxa3vhnxa-n0c6.googlevideo.com
 
-Meski sama-sama sub domain dari <b>".googlevideo.com"</b> tetapi beda ASN ( Bisa anda check dengan converter <a href="https://whatismyipaddress.com/hostname-ip" rel="nofollow">Hostname to IP Address</a> )
+<b>"Facebook"</b>
+1. XL-Axiata = video.fsub2-1.fna.fbcdn.net
+2. Telkomsel = video.fsub4-1.fna.fbcdn.net
+
+Meski sama-sama sub domain yang sama tetapi beda ASN ( Bisa anda check dengan converter <a href="https://whatismyipaddress.com/hostname-ip" rel="nofollow">Hostname to IP Address</a> )
 
 # Huawei Manager
 Aplikasi untuk cek kualitas sinyal modem GSM merk huawei (v.7 Android)
