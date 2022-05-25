@@ -69,13 +69,13 @@ Khusus routing game ada tambahan config add address list mode by port (Kecuali p
 
 Contoh kecil perbedaan tujuan :
 
-<b>"Youtube"</b>
-1. XL-Axiata = r1---sn-xmjxajvh-jb3s.googlevideo.com
-2. Telkomsel = r1---sn-uxa3vhnxa-n0c6.googlevideo.com
-
 <b>"Facebook"</b>
 1. XL-Axiata = video.fsub2-1.fna.fbcdn.net
 2. Telkomsel = video.fsub4-1.fna.fbcdn.net
+
+<b>"Youtube"</b>
+1. XL-Axiata = r1---sn-xmjxajvh-jb3s.googlevideo.com
+2. Telkomsel = r1---sn-uxa3vhnxa-n0c6.googlevideo.com
 
 Meski sama-sama dari sub domain yang sama tetapi beda ASN ( Bisa anda check dengan converter <a href="https://whatismyipaddress.com/hostname-ip" rel="nofollow">Hostname to IP Address</a> )
 
