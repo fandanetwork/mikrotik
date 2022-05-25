@@ -66,7 +66,7 @@ Khusus routing game ada tambahan config add address list mode by port (Kecuali p
 </table>
 
 <p><blockquote>Notice : Jika ingin address list <b>Ketengan, Tsel Unlimited, Dll</b> versi premium silahkan PM (Up to date)</blockquote></p>
-<marquee>Update 29 Mei 2022 (Tsel Unlimited) : Apps Viu, Apps Vidio, Apps Netflix</marquee>
+<p><marquee bgcolor=”yellow”>Update 29 Mei 2022 (Tsel Unlimited) : Apps Viu, Apps Vidio, Apps Netflix</marquee><p>
   
 Contoh kecil perbedaan tujuan :
 
