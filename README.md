@@ -33,22 +33,22 @@ Khusus routing game ada tambahan config add address list mode by port (Kecuali p
 <tr>
 <td>Games</td>
 <td align="center"><a href="https://raw.githubusercontent.com/fandagroupofficial/mikrotik/main/adlist-games" rel="nofollow">Link</a></td>
-<th align="center">Garena, Tencent, Zenlayer</th>
+<th align="center">Garena, Tencent, Zenlayer (Official)</th>
 </tr>
 <tr>
 <td>Facebook</td>
 <td align="center"><a href="https://github.com/fandagroupofficial/mikrotik/raw/main/adlist-facebook" rel="nofollow">Link</a></td>
-<th align="center">Facebook Official</th>
+<th align="center">Facebook (Official)</th>
 </tr>
 <tr>
 <td>WhatsApp</td>
 <td align="center"><a href="https://github.com/fandagroupofficial/mikrotik/raw/main/adlist-whatsapp" rel="nofollow">Link</a></td>
-<th align="center">WhatsApp Official</th>
+<th align="center">WhatsApp (Official)</th>
 </tr>
 <tr>
 <td>Ketengan</td>
 <td align="center"><a href="https://github.com/fandagroupofficial/mikrotik/raw/main/adlist-ketengan" rel="nofollow">Link</a></td>
-<th align="center">Youtube, Tiktok</th>
+<th align="center">Youtube, Tiktok (Official)</th>
 </tr>
 <tr>
 <td>XL Unlimited</td>
