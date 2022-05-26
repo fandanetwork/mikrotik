@@ -86,7 +86,7 @@ Aplikasi untuk cek kualitas sinyal modem GSM merk huawei (v.7 Android)
 
 # Quick script command line mikrotik
 
-Berikut adalah daftar list script cepat via terminal / telnet yang bisa untuk membuat "system -> scheduler" maupun "system -> scripts"
+Berikut adalah daftar list script cepat via terminal / telnet yang bisa untuk membuat <b>"system -> scheduler"</b> maupun <b>"system -> scripts"</b>
 
 Menghapus semua koneksi 
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="/ip firewall connection remove [find]"><pre>/ip firewall connection remove [find]</pre></div>
