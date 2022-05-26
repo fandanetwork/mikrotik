@@ -84,14 +84,14 @@ Meski sama-sama dari sub domain yang sama tetapi beda ASN ( Bisa anda check deng
 Aplikasi untuk cek kualitas sinyal modem GSM merk huawei (v.7 Android)
 <p dir="auto"><a href="https://www.mediafire.com/file/p8symlayaelcrl9/Huawei_Manager_7_English.apk/file" rel="nofollow"><img src="https://user-images.githubusercontent.com/94752371/169036676-13f98de5-c789-4ebc-a4e9-2423690d008e.png" alt="Get it on official AdAway website" height="80" style="max-width: 100%;"></a>
 
-# Quick script command line
+# Quick script command line mikrotik
 
 Berikut adalah daftar list script cepat via terminal / telnet yang bisa untuk membuat "system -> scheduler" maupun "system -> scripts"
 
-Menghapus semua koneksi <b>"firewall -> connections"</b>
+Menghapus semua koneksi 
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="/ip firewall connection remove [find]"><pre>/ip firewall connection remove [find]</pre></div>
 
-Menonaktifkan semua konfigurasi RAW <b>"firewall -> raw"</b>
+Menonaktifkan semua konfigurasi RAW 
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content=":for x from 0 to 1000 do={/ip firewall raw set $x disabled=yes}"><pre>:for x from 0 to 1000 do={/ip firewall raw set $x disabled=yes}</pre></div>
 
 # Hubungi Kami : <a href="https://linktr.ee/fandagroup" target="_blank" class="text-bold">Disini</a>
