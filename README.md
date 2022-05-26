@@ -89,7 +89,7 @@ Aplikasi untuk cek kualitas sinyal modem GSM merk huawei (v.7 Android)
 Berikut adalah daftar list script cepat via terminal / telnet yang bisa untuk membuat "system -> scheduler" maupun "system -> scripts"
 
 Hapus semua menu "firewall -> connections"
-<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="/ip firewall connection remove [find]"><pre>/ip firewall connection remove [find]</pre></div>
+<div class="highlight notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="/ip firewall connection remove [find]"><pre>/ip firewall connection remove [find]</pre></div>
 
 Reset semua counters 
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="/ip firewall filter reset-counters-all
@@ -97,8 +97,8 @@ Reset semua counters
 /ip firewall mangle reset-counters-all
 /ip firewall raw reset-counters-all
 /queue simple reset-counters-all
-/queue tree reset-counters-all"><pre lang="text" class="notranslate"><code>
-/ip firewall filter reset-counters-all
+/queue tree reset-counters-all"><pre lang="text" class="notranslate">
+<code>/ip firewall filter reset-counters-all
 /ip firewall nat reset-counters-all
 /ip firewall mangle reset-counters-all
 /ip firewall raw reset-counters-all
