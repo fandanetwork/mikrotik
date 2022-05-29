@@ -66,7 +66,7 @@ Khusus routing game ada tambahan config add address list mode by port (Kecuali p
 </table>
 
 <p><blockquote>Notice : Jika ingin address list <b>Ketengan, Tsel Unlimited, Dll</b> versi premium silahkan PM (Bukan berrti semua paket yang di dapat dalam SC dimasukkan dalam adlist melainkan yang sudah <b>DIUJI</b> sesuai paket setiap provider, Seperti yang sudah dijelaskan diatas.)</blockquote></p>
-<p><blockquote>Premium Only : Next Update 29 Mei 2022 (Tsel Unlimited = Apps Viu, Apps Vidio, Dll)</blockquote></p>
+<p><blockquote>Premium Only : Last Update 29 Mei 2022 (Yang belum menerima silahkan PM)</blockquote></p>
   
 Contoh kecil perbedaan tujuan :
 
