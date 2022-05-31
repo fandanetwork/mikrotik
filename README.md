@@ -71,7 +71,7 @@ Khusus routing game ada tambahan config add address list mode by port (Kecuali p
 </tbody>
 </table>
 
-<p>Notice : Jika ingin address list <b>Ketengan, XL Unlimited, Tsel Unlimited, Dll</b> versi premium silahkan PM (Bukan berrti semua paket yang di dapat dalam SC dimasukkan dalam adlist melainkan yang sudah <b>DIUJI BERDASARKAN <a href="https://whatismyipaddress.com/hostname-ip" rel="nofollow">DNS QUERY</a></b> sesuai paket setiap provider, Seperti yang sudah dijelaskan diatas.)
+<p>Notice : Jika ingin address list <b>Ketengan, XL Unlimited, Tsel Unlimited, Dll</b> versi premium silahkan PM (Bukan berrti semua paket yang di dapat dalam SC dimasukkan dalam adlist melainkan yang sudah <b>DIUJI Berdasarkan <a href="https://whatismyipaddress.com/hostname-ip" rel="nofollow">DNS QUERY</a></b> sesuai paket setiap provider, Seperti yang sudah dijelaskan diatas.)
 
 Terima kasih untuk yang sudah menggunakan vers premium & tidak melalukan <b>Copyright</b> untuk kepentingan pribadi.
 
