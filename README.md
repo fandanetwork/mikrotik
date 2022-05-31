@@ -48,6 +48,11 @@ Khusus routing game ada tambahan config add address list mode by port (Kecuali p
 <th align="center">WhatsApp (Official)</th>
 </tr>
 <tr>
+<td>Konferensi</td>
+<td align="center"><a href="https://raw.githubusercontent.com/fandagroupofficial/mikrotik/main/adlist-zoom" rel="nofollow">Link</a></td>
+<th align="center">Zoom</th>
+</tr>
+<tr>
 <td>Ketengan</td>
 <td align="center"><a href="https://github.com/fandagroupofficial/mikrotik/raw/main/adlist-ketengan" rel="nofollow">Link</a></td>
 <th align="center">Youtube, Tiktok (Official)</th>
