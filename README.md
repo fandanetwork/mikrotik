@@ -72,7 +72,7 @@ Khusus routing game ada tambahan config add address list mode by port (Kecuali p
 
 <p>Notice : Jika ingin address list <b>Ketengan, Tsel Unlimited, Dll</b> versi premium silahkan PM (Bukan berrti semua paket yang di dapat dalam SC dimasukkan dalam adlist melainkan yang sudah <b>DIUJI</b> sesuai paket setiap provider, Seperti yang sudah dijelaskan diatas.)
 
-Terima kasih untuk yang sudah menggunakan vers premium & tidak melalukan <b>copyright</b> untuk kepentingan pribadi.
+Terima kasih untuk yang sudah menggunakan vers premium & tidak melalukan <b>Copyright</b> untuk kepentingan pribadi.
 
 <p><blockquote>Premium Only : Last Update 29 Mei 2022 (Yang belum menerima silahkan PM)</blockquote></p>
   
