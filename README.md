@@ -13,8 +13,9 @@ Dengan adlist berikut anda bisa gunakan berbagai macam fungsi, Misalnya :
    * Routing
    * Dan lain-lain
 
-Untuk penggunaan routing (GSM) memang tidak di alokasikan secara spesifik ke arah tujuan dikarnakan untuk kelancaran koneksi seperti Facebook, instagram, Youtube, Dll
-Terlebih lagi dari platform google biasanya PlayStore atau yang lainnya akan terganggu. Maka dari itu tidak kita sertakan karna ada tambahan config (Premium Only)
+Untuk penggunaan routing (GSM) memang tidak di alokasikan secara spesifik ke arah tujuan dikarnakan untuk kelancaran koneksi seperti Youtube, Tiktok, Dll.
+
+Terlebih lagi dari platform komputasi <b>Google</b> biasanya PlayStore atau yang lainnya akan terganggu, Jika dari platform komputasi <b>Akamai Technologies</b> biasanya Vidio atau apps lain yang menggunakan ASN akamai akan terganggu. Maka dari itu tidak kita sertakan karna ada tambahan config (Premium Only)
 
 Khusus routing game ada tambahan config add address list mode by port (Kecuali port <b>TCP : 80,443,8080 & UDP : 80,443</b> saat pisah <b>packet</b> maupun <b>traffic</b>)
 
