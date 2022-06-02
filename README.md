@@ -90,7 +90,7 @@ Contoh kecil perbedaan tujuan :
 Meski sama-sama dari sub domain yang sama tetapi beda ASN ( Bisa anda check dengan converter <a href="https://whatismyipaddress.com/hostname-ip" rel="nofollow">Hostname to IP Address</a> )
 
 # Huawei Manager
-Aplikasi untuk cek kualitas sinyal modem GSM merk huawei (v.7 Android)
+Aplikasi untuk cek kualitas sinyal modem GSM merk huawei (Versi Android)
 <p dir="auto"><a href="https://www.mediafire.com/folder/laajh8bo7nby2/Huawei%20Manager" rel="nofollow"><img src="https://user-images.githubusercontent.com/94752371/169036676-13f98de5-c789-4ebc-a4e9-2423690d008e.png" alt="Get it on official AdAway website" height="80" style="max-width: 100%;"></a></p>
 
 <details>
