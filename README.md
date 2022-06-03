@@ -13,7 +13,7 @@ Dengan adlist berikut anda bisa gunakan berbagai macam fungsi, Misalnya :
    * Routing
    * Dan lain-lain
 
-Untuk penggunaan routing (GSM) memang tidak di alokasikan secara spesifik ke arah tujuan dikarnakan untuk kelancaran koneksi seperti Youtube, Tiktok, Dll. (Tidak disarankan untuk menggunakan WebProxy)
+Untuk penggunaan routing (GSM) memang tidak di alokasikan secara spesifik ke arah tujuan dikarnakan untuk kelancaran koneksi seperti Youtube, Tiktok, Dll. (Tidak disarankan : WebProxy/InternalProxy)
 
 Terlebih lagi dari platform komputasi <b>Google</b> biasanya PlayStore atau yang lainnya akan terganggu, Jika dari platform komputasi <b>Akamai Technologies</b> biasanya Vidio atau apps lain yang menggunakan ASN akamai akan terganggu. Maka dari itu tidak kita sertakan karna ada tambahan config (Premium Only)
 
