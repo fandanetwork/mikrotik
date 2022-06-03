@@ -71,7 +71,7 @@ Khusus routing game ada tambahan config add address list mode by port (Kecuali p
 </tbody>
 </table>
 
-<p>Notice : Jika ingin address list <b>Ketengan, XL Unlimited, Tsel Unlimited, Dll</b> versi premium silahkan PM (Bukan berrti semua paket yang di dapat dalam SC dimasukkan dalam adlist melainkan yang sudah <b>DIUJI Berdasarkan <a href="https://www.niagahoster.co.id/blog/apa-itu-dns/" rel="nofollow">DNS QUERY</a></b> sesuai paket setiap provider, Seperti yang sudah dijelaskan diatas.)
+<p>Notice : Jika ingin address list <b>Ketengan, XL Unlimited, Tsel Unlimited, Dll</b> versi premium silahkan PM (Bukan berrti semua paket yang di dapat dalam SC dimasukkan dalam adlist melainkan yang sudah <b>DIUJI Berdasarkan <a href="https://www.niagahoster.co.id/blog/apa-itu-dns/" rel="nofollow">DNS QUERY</a></b> sesuai paket setiap provider, Seperti yang sudah dijelaskan diatas.) Detail route unlimited versi free & premium bisa di check melalui comment pada address list.
 
 Terima kasih untuk yang sudah menggunakan vers premium & tidak melalukan <b>Copyright</b> untuk kepentingan pribadi.
 
@@ -87,7 +87,7 @@ Contoh kecil perbedaan tujuan :
 1. XL-Axiata = r1---sn-xmjxajvh-jb3s.googlevideo.com
 2. Telkomsel = r1---sn-uxa3vhnxa-n0c6.googlevideo.com
 
-Meski sama-sama dari 1 sub domain akan tetapi beda ASN ( Bisa anda check dengan converter <a href="https://whatismyipaddress.com/hostname-ip" rel="nofollow">Hostname to IP Address</a> )
+Meski sama-sama dari satu sub domain akan tetapi beda ASN ( Bisa anda check dengan converter <a href="https://whatismyipaddress.com/hostname-ip" rel="nofollow">Hostname to IP Address</a> )
 
 # Huawei Manager
 Aplikasi untuk cek kualitas sinyal modem GSM merk huawei (Versi Android)
