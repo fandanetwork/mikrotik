@@ -61,12 +61,12 @@ Khusus routing game ada tambahan config add address list mode by port (Kecuali p
 <tr>
 <td>XL Unlimited</td>
 <td align="center"><a href="https://github.com/fandagroupofficial/mikrotik/raw/main/adlist-xl-unlimited" rel="nofollow">Link</a></td>
-<th align="center">Facebook, Instagram, Gojek</th>
+<th align="center">Facebook, Instagram, DLL</th>
 </tr>
 <tr>
 <td>Tsel Unlimited</td>
 <td align="center"><a href="https://github.com/fandagroupofficial/mikrotik/raw/main/adlist-tsel-unlimited" rel="nofollow">Link</a></td>
-<th align="center">Youtube, Tiktok, Snackvideo, Dll</th>
+<th align="center">Youtube, Tiktok, DLL</th>
 </tr>
 </tbody>
 </table>
