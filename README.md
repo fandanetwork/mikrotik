@@ -1,10 +1,12 @@
 # Adlist for mikrotik
 
-<b>DONASI</b> : Support via BI (Bank Indonesia) atau E-Wallet (Dana, Gopay, Linkaja, Ovo & ShopeePay)
+<b>DONASI</b> 
 
-<img src="https://user-images.githubusercontent.com/94752371/166851078-7768997c-42dd-4cdf-b094-8fb590107a47.png" height="500" style="max-width: 100%;">
-
-Terima kasih yang telah berkontribusi untuk uang kopi + rokoknya para juragan :-)
+<details>
+  <summary><b> Lihat Kode QR Standar Indonesia</summary>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/94752371/166851078-7768997c-42dd-4cdf-b094-8fb590107a47.png"><img src="https://user-images.githubusercontent.com/94752371/166851078-7768997c-42dd-4cdf-b094-8fb590107a47.png" height="500" style="max-width: 100%;"></a></p>
+</details>
+Support via BI (Bank Indonesia) atau E-Wallet (Dana, Gopay, Linkaja, Ovo & ShopeePay)
 
 # Halaman ini berisi address list untuk mikrotik
 Dengan adlist berikut anda bisa gunakan berbagai macam fungsi, Misalnya :
