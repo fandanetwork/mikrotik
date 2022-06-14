@@ -93,8 +93,6 @@ Contoh kecil perbedaan tujuan akses Apps Unlimited:
 
 Meski sama-sama dari satu sub domain akan tetapi beda ASN ( Check <a href="https://whatismyipaddress.com/hostname-ip" rel="nofollow">Hostname to IP Address</a> )
 
-<marquee>Disini juga tersedia SC Tsel Unlimited + YT dengan kapasitas 3000GB/6000GB per 3bln</marquee>
-
 <hr>
 
 # Huawei Manager
