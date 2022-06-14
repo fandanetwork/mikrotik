@@ -115,4 +115,5 @@ Menonaktifkan semua konfigurasi RAW
 <p>Sumber : <a href="https://wiki.mikrotik.com/wiki/Manual:TOC" rel="nofollow">Wiki Mikrotik</a></p>
 <p>Sumber : <a href="https://citraweb.com/artikel.php" rel="nofollow">Mikrotik ID</a></p>
 
-# ☎️ Hubungi Kami : <a href="https://linktr.ee/fandagroup" target="_blank" class="text-bold">Disini</a>
+<hr>
+<center><h1> ☎️ Hubungi Kami : <a href="https://linktr.ee/fandagroup" target="_blank" class="text-bold">Disini</a> </h1></center>
