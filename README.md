@@ -112,9 +112,9 @@ Menghapus semua koneksi
 Menonaktifkan semua konfigurasi RAW 
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content=":for x from 0 to 1000 do={/ip firewall raw set $x disabled=yes}"><pre>:for x from 0 to 1000 do={/ip firewall raw set $x disabled=yes}</pre></div>
 
-<p>Info lainnya :</p>
-<p>Sumber : <a href="https://wiki.mikrotik.com/wiki/Manual:TOC" rel="nofollow">Wiki Mikrotik</a></p>
-<p>Sumber : <a href="https://citraweb.com/artikel.php" rel="nofollow">Mikrotik ID</a></p>
+<p>📝 Info lainnya :</p>
+<p>1️⃣ : <a href="https://wiki.mikrotik.com/wiki/Manual:TOC" rel="nofollow">Wiki Mikrotik</a></p>
+<p>2️⃣ : <a href="https://citraweb.com/artikel.php" rel="nofollow">Mikrotik ID</a></p>
 
 <hr>
 <center><h1> ☎️ Hubungi Kami : <a href="https://linktr.ee/fandagroup" target="_blank" class="text-bold">Disini</a> </h1></center>
