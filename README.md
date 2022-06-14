@@ -22,7 +22,7 @@ Untuk penggunaan routing (GSM) memang tidak di alokasikan secara spesifik ke ara
 
 Khusus routing game ada tambahan config add address list mode by port (Kecuali port <b>TCP : 80,443,8080,8081 & UDP : 80,443,500,4500</b> saat pisah <b>packet</b> maupun <b>traffic</b>)
 <details>
-<summary><b> 🔎 Lihat Daftar Adlist</summary>
+<summary><b> 🔎 Lihat Daftar Adlist (Vers Gratis)</summary>
 <table>
 <thead>
 <tr>
