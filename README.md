@@ -3,7 +3,7 @@
 <b>DONASI</b> 
 
 <details>
-  <summary><b> Lihat Kode QR Standar Indonesia</summary>
+  <summary><b> 🔎 Lihat Kode QR Standar Indonesia</summary>
 <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/94752371/166851078-7768997c-42dd-4cdf-b094-8fb590107a47.png"><img src="https://user-images.githubusercontent.com/94752371/166851078-7768997c-42dd-4cdf-b094-8fb590107a47.png" height="500" style="max-width: 100%;"></a></p>
 </details>
 Support via BI (Bank Indonesia) atau E-Wallet (Dana, Gopay, Linkaja, Ovo & ShopeePay)
