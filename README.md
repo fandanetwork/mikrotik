@@ -1,6 +1,6 @@
 # Adlist for mikrotik
 
-<b>DONASI</b> 
+<b>💸💸💸💸💸 DONASI 💸💸💸💸💸</b> 
 
 <details>
   <summary><b> 🔎 Lihat Kode QR Standar Indonesia</summary>
@@ -96,7 +96,7 @@ Aplikasi untuk cek kualitas sinyal modem GSM merk huawei (Versi Android)
 <p dir="auto"><a href="https://www.mediafire.com/folder/laajh8bo7nby2/Huawei%20Manager" rel="nofollow"><img src="https://user-images.githubusercontent.com/94752371/169036676-13f98de5-c789-4ebc-a4e9-2423690d008e.png" alt="Get it on official AdAway website" height="80" style="max-width: 100%;"></a></p>
 
 <details>
-  <summary><b> LIHAT : Standar Key Performance Indicator (KPI) Telkomsel</b></summary>
+  <summary><b>🔎 LIHAT : Standar Key Performance Indicator (KPI) Telkomsel</b></summary>
 <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/fandagroupofficial/mikrotik/main/Standar%20KPI%20Tsel.png"><img src="https://raw.githubusercontent.com/fandagroupofficial/mikrotik/main/Standar%20KPI%20Tsel.png" style="max-width: 100%;"></a></p>
 </details>
 
@@ -114,4 +114,4 @@ Menonaktifkan semua konfigurasi RAW
 <p>Sumber : <a href="https://wiki.mikrotik.com/wiki/Manual:TOC" rel="nofollow">Wiki Mikrotik</a></p>
 <p>Sumber : <a href="https://citraweb.com/artikel.php" rel="nofollow">Mikrotik ID</a></p>
 
-# Hubungi Kami : <a href="https://linktr.ee/fandagroup" target="_blank" class="text-bold">Disini</a>
+# ☎️ Hubungi Kami : <a href="https://linktr.ee/fandagroup" target="_blank" class="text-bold">Disini</a>
