@@ -81,7 +81,7 @@ Khusus routing game ada tambahan config add address list mode by port (Kecuali p
 
 <p><blockquote>Premium Only : Last Update 5 Juni 2022 (Yang belum menerima silahkan PM)</blockquote></p>
   
-Contoh kecil perbedaan tujuan :
+Contoh kecil perbedaan tujuan akses Apps Unlimited:
 
 <b>"Facebook"</b>
 1. XL-Axiata = video.fsub2-1.fna.fbcdn.net
