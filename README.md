@@ -19,7 +19,7 @@ Untuk penggunaan routing (GSM) memang tidak di alokasikan secara spesifik ke ara
 
 Terlebih lagi dari platform komputasi <b>Google</b> biasanya PlayStore atau yang lainnya akan terganggu, Jika dari platform komputasi <b>Akamai Technologies</b> biasanya Vidio atau apps lain yang menggunakan ASN akamai akan terganggu. Maka dari itu tidak kita sertakan karna ada tambahan config (Premium Only)
 
-Khusus routing game ada tambahan config add address list mode by port (Kecuali port <b>TCP : 80,443,8080,8081 & UDP : 80,443</b> saat pisah <b>packet</b> maupun <b>traffic</b>)
+Khusus routing game ada tambahan config add address list mode by port (Kecuali port <b>TCP : 80,443,8080,8081 & UDP : 80,443,500,4500</b> saat pisah <b>packet</b> maupun <b>traffic</b>)
 
 <table>
 <thead>
