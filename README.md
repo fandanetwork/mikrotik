@@ -8,7 +8,8 @@
 </details>
 Support via BI (Bank Indonesia) atau E-Wallet (Dana, Gopay, Linkaja, Ovo & ShopeePay)
 
-# Halaman ini berisi address list untuk mikrotik
+<hr>
+
 Dengan adlist berikut anda bisa gunakan berbagai macam fungsi, Misalnya :
    * Filter rule 
    * Packet
