@@ -77,7 +77,7 @@ Khusus routing game ada tambahan config add address list mode by port (Kecuali p
 </details>
 <p>Notice : Jika ingin address list <b>Tsel Unlimited, Dll</b> versi premium silahkan PM (Bukan berrti semua paket yang di dapat dalam SC dimasukkan dalam adlist melainkan yang sudah <b>DIUJI Berdasarkan <a href="https://www.niagahoster.co.id/blog/apa-itu-dns/" rel="nofollow">DNS QUERY</a></b> sesuai paket setiap provider, Seperti yang sudah dijelaskan diatas.) Detail route unlimited versi free & premium bisa di check melalui comment pada address list.
 
-♥️ Terima kasih untuk yang sudah menggunakan vers premium & tidak melalukan <b>Copyright</b> untuk kepentingan pribadi.
+♥️ Terima kasih untuk yang sudah menggunakan vers premium & tidak meng-<b>Copyright</b> untuk kepentingan pribadi.
 
 <p><blockquote>Premium Only : Last Update 15 Juni 2022 (Yang belum menerima silahkan PM)</blockquote></p>
   
