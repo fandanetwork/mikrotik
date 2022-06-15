@@ -18,7 +18,7 @@ Dengan adlist berikut anda bisa gunakan berbagai macam fungsi, Misalnya :
 
 Untuk penggunaan routing (GSM) memang tidak di alokasikan secara spesifik ke arah tujuan dikarnakan untuk kelancaran koneksi seperti Youtube, Tiktok, Dll. Mengapa demikian...? Karna dari platform komputasi <b>Google</b> biasanya PlayStore atau yang lainnya akan terganggu, Jika dari platform komputasi <b>Akamai Technologies</b> biasanya Vidio atau apps lain yang menggunakan ASN akamai akan terganggu. Maka dari itu tidak kita sertakan karna ada tambahan config (Premium Only)
 
-<p><blockquote>📣 Penggunaan WebProxy/InternalProxy pada routing GSM tidak disarankan</blockquote></p>
+<p><blockquote>📣 Penggunaan WebProxy pada routing GSM tidak disarankan</blockquote></p>
 
 Khusus routing game ada tambahan config add address list mode by port (Kecuali port <b>TCP : 80,443,8080,8081 & UDP : 80,443,500,4500</b> saat pisah <b>packet</b> maupun <b>traffic</b>)
 <details>
@@ -79,7 +79,7 @@ Khusus routing game ada tambahan config add address list mode by port (Kecuali p
 
 ♥️ Terima kasih untuk yang sudah menggunakan vers premium & tidak melalukan <b>Copyright</b> untuk kepentingan pribadi.
 
-<p><blockquote>Premium Only : Last Update 5 Juni 2022 (Yang belum menerima silahkan PM)</blockquote></p>
+<p><blockquote>Premium Only : Last Update 15 Juni 2022 (Yang belum menerima silahkan PM)</blockquote></p>
   
 Contoh kecil perbedaan tujuan akses Apps Unlimited:
 
