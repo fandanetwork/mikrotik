@@ -97,7 +97,7 @@ Meski sama-sama dari satu sub domain akan tetapi beda ASN ( Check <a href="https
 
 # Huawei Manager
 Aplikasi untuk cek kualitas sinyal modem GSM merk huawei (Versi Android)
-<p dir="auto"><a href="https://www.mediafire.com/folder/laajh8bo7nby2/Huawei%20Manager" rel="nofollow"><img src="https://user-images.githubusercontent.com/94752371/169036676-13f98de5-c789-4ebc-a4e9-2423690d008e.png" alt="Get it on official AdAway website" height="80" style="max-width: 100%;"></a></p>
+<p dir="auto"><a href="https://www.mediafire.com/folder/laajh8bo7nby2/Huawei-Manager" rel="nofollow"><img src="https://user-images.githubusercontent.com/94752371/169036676-13f98de5-c789-4ebc-a4e9-2423690d008e.png" alt="Get it on official AdAway website" height="80" style="max-width: 100%;"></a></p>
 
 <details>
   <summary><b>🔎 LIHAT : Standar Key Performance Indicator (KPI) Telkomsel 📶</b></summary>
