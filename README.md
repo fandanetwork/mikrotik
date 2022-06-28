@@ -115,6 +115,11 @@ Menghapus semua koneksi
 Menonaktifkan semua konfigurasi RAW 
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content=":for x from 0 to 1000 do={/ip firewall raw set $x disabled=yes}"><pre>:for x from 0 to 1000 do={/ip firewall raw set $x disabled=yes}</pre></div>
 
+<details>
+  <summary><b>🔎 LIHAT : Aturan mangle firewall</b></summary>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/fandagroupofficial/mikrotik/main/mangle.png"><img src="https://raw.githubusercontent.com/fandagroupofficial/mikrotik/main/mangle.png" style="max-width: 100%;"></a></p>
+</details>
+
 <p>📝 Info lainnya :</p>
 <p>1️⃣ : <a href="https://wiki.mikrotik.com/wiki/Manual:TOC" rel="nofollow">Wiki Mikrotik</a></p>
 <p>2️⃣ : <a href="https://help.mikrotik.com/docs/display/ROS/RouterOS" rel="nofollow">Help Mikrotik</a></p>
