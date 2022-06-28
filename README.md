@@ -117,7 +117,8 @@ Menonaktifkan semua konfigurasi RAW
 
 <p>📝 Info lainnya :</p>
 <p>1️⃣ : <a href="https://wiki.mikrotik.com/wiki/Manual:TOC" rel="nofollow">Wiki Mikrotik</a></p>
-<p>2️⃣ : <a href="https://citraweb.com/artikel.php" rel="nofollow">Mikrotik ID</a></p>
+<p>2️⃣ : <a href="https://help.mikrotik.com/docs/display/ROS/RouterOS" rel="nofollow">Help Mikrotik</a></p>
+<p>3️⃣ : <a href="https://citraweb.com/artikel.php" rel="nofollow">Mikrotik ID</a></p>
 
 <hr>
 <center><h1> ☎️ Hubungi Kami : <a href="https://linktr.ee/fandagroup" target="_blank" class="text-bold">Disini</a> </h1></center>
