@@ -79,7 +79,7 @@ Khusus routing game ada tambahan config add address list mode by port (Kecuali p
 
 ♥️ Terima kasih untuk yang sudah menggunakan vers premium & tidak melakukan <b>Copyright</b> untuk kepentingan pribadi.
 
-<p><blockquote>ℹ️ Premium Only : Last Update 3 Juli 2022 (Yang belum menerima silahkan PM)</blockquote></p>
+<p><blockquote>ℹ️ Premium Only : Last Update 22 Juli 2022 (Khusus XL Unlimited Youtube/Tiktok + Modem Custom/OpenWrt )</blockquote></p>
 <p><blockquote>‼️ Notice : Jika ada apps lain yang terganggu bisa di infokan via chat untuk di kembangkan lebih lanjut. Tq</blockquote></p>
   
 Contoh kecil perbedaan tujuan akses Apps Unlimited:
